@@ -1,13 +1,9 @@
 {
   "salmod_update": [
     {
+ "title":"Update Tersedia",
  "version":"8.0.0",
- "title":"Update Disponible",
- "description":"Civil Maps terinstal V8.0.0
-
-Base: 108
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+ "description":"Civil Maps terinstal v8.0.0
 
 Alpliksai membutuhkan Versi terbaru
 silahkan download versi terbaru

@@ -1,7 +1,7 @@
 {
   "salmod_update": [
     {
- "version":"8.5.2",
+ "version":"7.1.2",
  "title":"Update Disponible",
  "description":"Civil Maps Oficial V8.5.2
 

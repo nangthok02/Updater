@@ -5,14 +5,14 @@
  "title":"Update Disponible",
  "description":"Civil Maps terinstal V7.1.2
 
-Base: 8
+Base: 7
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 Alpliksai membutuhkan Versi terbaru
 silahkan download versi terbaru
 
- Klik Download Dibawah Ini unguk memperbarui aplikasi",
+ Klik Download Dibawah Ini untuk memperbarui aplikasi",
 "download":"https://fileu.cloud/filecloud/download.php?id=98482"
 }
   ]

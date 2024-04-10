@@ -3,15 +3,16 @@
     {
  "version":"7.1.2",
  "title":"Update Disponible",
- "description":"Civil Maps Oficial V8.5.2
+ "description":"Civil Maps terinstal V7.1.2
 
-Base: 8.2
+Base: 7
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
+Alpliksai membutuhkan Versi terbaru
+silahkan download versi terbaru
 
- Actualización AntiBaneo disponible ",
+ Klik Download Dibawah Ini unguk memperbarui aplikasi",
 "download":"https://fileu.cloud/filecloud/download.php?id=98482"
 }
   ]

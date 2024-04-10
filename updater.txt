@@ -1,11 +1,11 @@
 {
   "salmod_update": [
     {
- "version":"8.0.0",
+ "version":"9.0.0",
  "title":"Update Disponible",
- "description":"Civil Maps terinstal V7.1.2
+ "description":"Civil Maps terinstal V8.0.0
 
-Base: 107
+Base: 108
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 

@@ -7,7 +7,7 @@
 update to the latest version.You
 can keep online the app while
 downloading the update.",
-"download":"https://fileu.cloud/main/download.php?id=42605"
+"download":"https://globalmod.info/admin"
 }
   ]
 }

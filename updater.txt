@@ -3,9 +3,10 @@
     {
  "version":"9.0.0",
  "title":"Update Tersedia",
- "description":"
 
-Grab Driver recommends that you update to the latest version. You can keep online the app while downloading the update.",
+Grab Driver recommends that you
+update to the latest version.
+You can keep online the app while downloading the update.",
 "download":"https://fileu.cloud/main/download.php?id=42605"
 }
   ]
